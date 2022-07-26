@@ -8,7 +8,7 @@ The environment consists of 2 rackets that hit a ball at each other. If the ball
 
 To solve the environment, an average of +0.5 points needs to be achieved over 100 episodes. The score is taken from the max score of both agents.
 
-![GIF of Trained Network](Images/Tennis.gif)
+![GIF of Trained Network](Images/Tennis.gif){:height="6px" width="6px"}.
 
 #### <u>Learning Algorithm</u>
 The implementation used was Multi-agent Deep Deterministic Policy Gradient (MADDPG) where the actor is decentralised and the critic is centralised as shown in the paper [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf)
