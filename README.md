@@ -1,7 +1,7 @@
 # <u>Collaboration and Competition</u>
 ### Introduction
 
-The goal of this project is to train 2 agents to play tennis against each other using either collaboration.
+The goal of this project is to train 2 agents to play tennis against each other using collaborative training.
 
 
 ![GIF of Trained Network](Images/Tennis.gif)
