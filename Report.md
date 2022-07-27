@@ -1,4 +1,4 @@
-# <u>Continuous Control Report</u>
+# <u>Collaboration and Competition Report</u>
 
 The goal of this project is to train 2 agents to play tennis against each other using collaborative training.
 
